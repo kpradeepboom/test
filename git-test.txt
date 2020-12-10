@@ -1,4 +1,0 @@
-Backup retention periodInfo
-Choose the number of days that RDS should retain automatic backups for this instance.
-
-
