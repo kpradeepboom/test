@@ -1,7 +1,0 @@
-datacenter
-
-infrastructure as a service
-
-platform as service
-
-software as service
