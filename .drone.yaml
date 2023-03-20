@@ -7,4 +7,3 @@ steps:
   image: alpine
   commands:
   - echo "It worked!"
-  - echo "It tested!"
